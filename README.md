@@ -52,7 +52,7 @@ me.say_hi()
 
 | 🏆 Dự Án | 📝 Mô Tả | 👥 Collaborators | 🛠️ Tech Stack | 🎯 Vai Trò |
 |----------|----------|------------------|---------------|-----------|
-| **[Stress Monitoring v1.0](https://github.com/Hik4r1Le/Stress-Monitoring-v1.0)** | 🏥 Hệ thống IoT giám sát stress và sức khỏe tinh thần real-time | [@Hik4r1Le](https://github.com/Hik4r1Le) | ![IoT](https://img.shields.io/badge/-IoT-00979D?style=flat-square&logo=iot&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/-ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)| AI Model Development, Deploy on AWS |
+| **[Stress Monitoring v1.0](https://github.com/Hik4r1Le/Stress-Monitoring-v1.0)** | 🏥 Hệ thống IoT giám sát stress và sức khỏe tinh thần real-time | [@Hik4r1Le](https://github.com/Hik4r1Le) | ![IoT](https://img.shields.io/badge/-IoT-00979D?style=flat-square&logo=iot&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![DL](https://img.shields.io/badge/-DL-FF6F00?style=flat-square&logo=resnet50&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)| AI Model Development, Deploy on AWS |
 | **[TRAVEL-WEB](https://github.com/vietdungnguyen2005/TRAVEL-WEB)** | 🛒 Platform thương mại điện tử chuyên về du lịch và đặt tour | [@vietdungnguyen2005](https://github.com/vietdungnguyen2005) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | Backend Development, Database Design |
 
 </div>
@@ -95,7 +95,7 @@ me.say_hi()
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/-ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white) 
 
-### 🗄️ Tools
+### 🛠️ Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -129,8 +129,11 @@ me.say_hi()
 ## 📊 Thống Kê GitHub
 
 ### 💻 Language Distribution
-
+<div align="center">
+  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtarget05&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" width="400"/>
+
+</div>
 
 ### 📋 Profile Summary
 
