@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Chào mừng đến với GitHub của tôi!
+# 👋 Welcome to my GitHub!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=imtarget05&color=6366f1&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/imtarget05?label=Followers&style=flat-square&color=6366f1)](https://github.com/imtarget05)
@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Về Mai Nguyễn Bình Tân
+## 🚀 About Mai Nguyễn Bình Tân
 
 ```python
 class Devops:
@@ -28,7 +28,7 @@ me.say_hi()
 ```
 ---
 
-## 💼 Dự Án Nổi Bật
+## 💼 Featured Projects
 
 <div align="center">
 
@@ -46,7 +46,7 @@ me.say_hi()
 </div>
 
 ---
-## 🤝 Dự Án Cộng Tác
+## 🤝 Collaborative Project
 
 <div align="center">
 
@@ -57,7 +57,7 @@ me.say_hi()
 
 </div>
 
-## 🛠️ Công Nghệ & Công Cụ
+## 🛠️ Technology & Tools
 
 <div align="center">
 
@@ -126,7 +126,7 @@ me.say_hi()
 
 ---
 
-## 📊 Thống Kê GitHub
+## 📊 GitHub Statistics
 
 ### 💻 Language Distribution
 <div align="center">
@@ -161,7 +161,7 @@ me.say_hi()
 
 </div>
 
-## 📈 Biểu Đồ Hoạt Động
+## 📈 Activity Chart
 <div align="center">
   
 [![imtarget05's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imtarget05&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=c9d1d9)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -172,7 +172,7 @@ me.say_hi()
 
 ---
 
-## 🎯 Kỹ Năng Chính
+## 🎯 Key Skills
 
 ```text
 Game Development         ████████████████████░   95%
@@ -194,7 +194,7 @@ DevOps & CI/CD           ████████████████░░�
 ```
 ---
 
-## 💡 Lĩnh Vực Quan Tâm
+## 💡 Areas of Interest
 
 - 🎮 **Game Development**: Unity, 2D/3D Game Design, Platformers
 - 📱 **Mobile Apps**: Flutter, Cross-platform Development, Health & Fitness Apps
@@ -211,7 +211,7 @@ DevOps & CI/CD           ████████████████░░�
 ---
 
 
-## 📫 Kết Nối Với Tôi
+## 📫 Contact With Me
 
 <div align="center">
 
