@@ -73,7 +73,7 @@ me.say_hi()
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node. js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -128,85 +128,15 @@ me.say_hi()
 
 ## 📊 Thống Kê GitHub
 
-<div align="center">
-
-<table>
-<tr>
-<td colspan="2">
-
-### 📈 GitHub Performance Overview
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api? username=imtarget05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&ring_color=6366f1" width="100%"/>
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-streak-stats. herokuapp.com?user=imtarget05&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=C9D1D9" width="100%"/>
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
 ### 💻 Language Distribution
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**📊 Compact View**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtarget05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=10" width="100%"/>
-
-</td>
-<td width="50%">
-
-**🍩 Donut Chart**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtarget05&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" width="100%"/>
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-### 🔥 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imtarget05&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=c9d1d9&area=true&area_color=6366f1" width="100%"/>
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtarget05&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" width="400"/>
 
 ### 📋 Profile Summary
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imtarget05&theme=tokyonight" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel. app/api/cards/profile-details?username=imtarget05&theme=tokyonight" width="100%"/>
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**⏰ Productive Time**
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imtarget05&theme=tokyonight&utcOffset=7" width="100%"/>
-
-</td>
-<td width="50%">
-
-**📦 Repos per Language**
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language? username=imtarget05&theme=tokyonight" width="100%"/>
-
-</td>
-</tr>
+<table>
 <tr>
 <td width="50%">
 
@@ -225,14 +155,8 @@ me.say_hi()
 </tr>
 </table>
 
-</div>
-
----
-
 ## 📈 Biểu Đồ Hoạt Động
 
-<div align="center">
-  
 [![imtarget05's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imtarget05&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=c9d1d9)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
