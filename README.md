@@ -164,8 +164,6 @@ me.say_hi()
 ## 📈 Biểu Đồ Hoạt Động
 <div align="center">
 [![imtarget05's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imtarget05&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=c9d1d9)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-</div>
 
 </div>
 
