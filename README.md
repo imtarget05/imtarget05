@@ -128,17 +128,10 @@ me.say_hi()
 
 ## 📊 GitHub Statistics
 
-### 💻 Language Distribution
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtarget05&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" width="400"/>
-
-</div>
 
 ### 📋 Profile Summary
-<div align="center">
-  
-<img src="https://github-profile-summary-cards.vercel. app/api/cards/profile-details?username=imtarget05&theme=tokyonight" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imtarget05&theme=tokyonight" width="100%"/>
 
 <table>
 <tr>
@@ -159,14 +152,8 @@ me.say_hi()
 </tr>
 </table>
 
-</div>
-
-## 📈 Activity Chart
-<div align="center">
-  
-[![imtarget05's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imtarget05&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=c9d1d9)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+### 💻 Language Distribution
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=imtarget05&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" width="400"/>
 
 </div>
 
@@ -217,7 +204,7 @@ DevOps & CI/CD           ████████████████░░�
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imtarget05)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:binhtan5734@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mai-nguyễn-bình-tân-6a32b2369/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mai-nguy%E1%BB%85n-b%C3%ACnh-t%C3%A2n-6a32b2369/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/imtarget05)
 
 </div>
