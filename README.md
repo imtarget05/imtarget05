@@ -13,17 +13,18 @@
 ## 🚀 About Mai Nguyễn Bình Tân
 
 ```python
-class Devops:
+class AIEngineer:
     def __init__(self):
         self.name = "imtarget05 || Mai Nguyễn Bình Tân"
-        self.role = "Full Stack & Game & Devops & MLops & IOT & Cloud Computing"
+        self.role = "AI Engineer & Agent Developer | LLM | RAG | LangChain | LangGraph"
         self.language_spoken = ["vi_VN", "en_US"]
         self.code_languages = ["Python", "Dart", "JavaScript", "C++", "C#"]
+        self.ai_stack = ["LangChain", "LangGraph", "Ollama", "OpenAI", "CrewAI", "n8n"]
         
     def say_hi(self):
-        print("Cảm ơn bạn đã ghé thăm !  Hãy cùng nhau code nhé!")
+        print("Cảm ơn bạn đã ghé thăm! Let's build intelligent agents together!")
 
-me = Developer()
+me = AIEngineer()
 me.say_hi()
 ```
 ---
@@ -34,14 +35,14 @@ me.say_hi()
 
 | 🏆 Dự Án | 📝 Mô Tả | 🛠️ Tech Stack |
 |-----------|----------|---------------|
-| **[Health Tracker App](https://github.com/imtarget05/Health-Tracker-App-v1.2)** | 💪 Ứng dụng theo dõi sức khỏe toàn diện:  bước chân, calories, nhịp tim, giấc ngủ và tinh thần | ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
-| **[Parallel Computing](https://github.com/imtarget05/Parallel)** | ⚡ Giải thuật xử lý song song, tận dụng tối đa tài nguyên CPU | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **[Training AI for Emotion](https://github.com/imtarget05/Training-AI-for-emotion)** | 🧠 AI nhận diện cảm xúc từ khuôn mặt | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| **[CrossBy Game 2D](https://github.com/imtarget05/CrossByGame2D)** | 🎮 Game platformer 2D phong cách tối giản, tìm chìa khóa để thoát | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white) |
-| **[Racing Boy 3D](https://github.com/imtarget05/RacingBoy)** | 🏎️ Game đua xe 3D với cơ chế chuyển cảnh | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white) |
-| **[Chat App](https://github.com/imtarget05/Chat-App)** | 💬 Ứng dụng chat real-time | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **[Flappy Bird](https://github.com/imtarget05/Flappy-Bird)** | 🐦 Clone game Flappy Bird kinh điển | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **[OLSRd OpenWRT](https://github.com/imtarget05/OLSRd-OpenWRT)** | 🌐 Triển khai và mô phỏng mạng Mesh với OLSR routing protocol trên OpenWRT sử dụng VMware | ![OpenWRT](https://img.shields.io/badge/-OpenWRT-00B5E2?style=flat-square&logo=openwrt&logoColor=white) ![VMware](https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=vmware&logoColor=white) |
+| **[AI Agent Automation](https://github.com/imtarget05/AI-Agent-Automation)** | 🤖 Multi-Agent AIOps: auto-detection, RCA, RAG runbook lookup, K8s/Prometheus patching | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3A3A?style=flat-square&logo=langchain&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white) |
+| **[Smart Document Chatbot](https://github.com/imtarget05/Smart-Document-Chatbot)** | 📚 RAG-based document Q&A. Upload docs, get context-aware answers with vector DB | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![RAG](https://img.shields.io/badge/-RAG-FF6F00?style=flat-square) ![LLM](https://img.shields.io/badge/-LLM-8B5CF6?style=flat-square) |
+| **[Intelligent App Suite](https://github.com/imtarget05/intelligent-app-suite)** | 🧠 Ecosystem of production-ready LLM apps with scalable architecture & vector DB | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LLM](https://img.shields.io/badge/-LLM-8B5CF6?style=flat-square) ![VectorDB](https://img.shields.io/badge/-VectorDB-00C9A7?style=flat-square) |
+| **[Training AI for Emotion](https://github.com/imtarget05/Training-AI-for-emotion)** | 😊 Deep learning facial emotion recognition. Dockerized for easy deployment | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **[Health Tracker App](https://github.com/imtarget05/Health-Tracker-App-v1.2)** | 💪 Health monitoring: steps, calories, heart rate, sleep, mood | ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
+| **[CrossBy Game 2D](https://github.com/imtarget05/CrossByGame2D)** | 🎮 Minimalist 2D platformer. Find keys and escape | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white) |
+| **[Chat App](https://github.com/imtarget05/Chat-App)** | 💬 Real-time messaging | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **[OLSRd OpenWRT](https://github.com/imtarget05/OLSRd-OpenWRT)** | 🌐 Mesh network simulation with OLSR on OpenWRT | ![OpenWRT](https://img.shields.io/badge/-OpenWRT-00B5E2?style=flat-square&logo=openwrt&logoColor=white) ![VMware](https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=vmware&logoColor=white) |
 
 </div>
 
@@ -52,14 +53,23 @@ me.say_hi()
 
 | 🏆 Dự Án | 📝 Mô Tả | 👥 Collaborators | 🛠️ Tech Stack | 🎯 Vai Trò |
 |----------|----------|------------------|---------------|-----------|
-| **[Stress Monitoring v1.0](https://github.com/Hik4r1Le/Stress-Monitoring-v1.0)** | 🏥 Hệ thống IoT giám sát stress và sức khỏe tinh thần real-time | [@Hik4r1Le](https://github.com/Hik4r1Le) | ![IoT](https://img.shields.io/badge/-IoT-00979D?style=flat-square&logo=iot&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![DL](https://img.shields.io/badge/-DL-FF6F00?style=flat-square&logo=resnet50&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)| AI Model Development, Deploy on AWS |
-| **[TRAVEL-WEB](https://github.com/vietdungnguyen2005/TRAVEL-WEB)** | 🛒 Platform thương mại điện tử chuyên về du lịch và đặt tour | [@vietdungnguyen2005](https://github.com/vietdungnguyen2005) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | Backend Development, Database Design |
+| **[Stress Monitoring v1.0](https://github.com/Hik4r1Le/Stress-Monitoring-v1.0)** | 🏥 IoT real-time stress & mental health monitoring | [@Hik4r1Le](https://github.com/Hik4r1Le) | ![IoT](https://img.shields.io/badge/-IoT-00979D?style=flat-square&logo=iot&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![DL](https://img.shields.io/badge/-DL-FF6F00?style=flat-square&logo=resnet50&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)| AI Model Development, Deploy on AWS |
+| **[TRAVEL-WEB](https://github.com/vietdungnguyen2005/TRAVEL-WEB)** | 🛒 Travel e-commerce & booking platform | [@vietdungnguyen2005](https://github.com/vietdungnguyen2005) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | Backend Development, Database Design |
 
 </div>
 
 ## 🛠️ Technology & Tools
 
 <div align="center">
+
+### 🤖 AI & Agent Engineering
+![LangChain](https://img.shields.io/badge/-LangChain-1C3A3A?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3A3A?style=for-the-badge&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/-Anthropic-D4A574?style=for-the-badge&logo=anthropic&logoColor=black)
+![CrewAI](https://img.shields.io/badge/-CrewAI-FF6F00?style=for-the-badge)
+![n8n](https://img.shields.io/badge/-n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### 💻 Language
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -69,18 +79,7 @@ me.say_hi()
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### 🎨 Frameworks & Libraries
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
-### 🤖 AI & Deep Learning Models
+### 🧠 AI & Deep Learning
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/-YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
@@ -89,39 +88,31 @@ me.say_hi()
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
-### 🌐 IoT & Embedded Systems
-![IoT](https://img.shields.io/badge/-IoT-00979D?style=for-the-badge&logo=iot&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/-ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white) 
+### 🎨 Frameworks & Libraries
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-### 🛠️ Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![VMware](https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-
-### 🗄️ Databases 
+### 🗄️ Vector DB & Storage
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-1C3A3A?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🌐 Networking & Infrastructure
-![OpenWRT](https://img.shields.io/badge/-OpenWRT-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white)
-![OLSRd](https://img.shields.io/badge/-OLSRd-FF6B6B?style=for-the-badge&logo=network&logoColor=white)
-![Mesh Network](https://img.shields.io/badge/-Mesh_Network-4CAF50?style=for-the-badge&logo=wireless&logoColor=white)
-![Virtualization](https://img.shields.io/badge/-Virtualization-0078D4?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### ☁️ Cloud & Deployment
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/-EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/-S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
-![AWS RDS](https://img.shields.io/badge/-RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 </div>
 
 ---
@@ -162,39 +153,36 @@ me.say_hi()
 ## 🎯 Key Skills
 
 ```text
-Game Development         ████████████████████░   95%
-Mobile Development       ███████████████████░░   90%
-Python Programming       ████████████████████░   95%
-AI & Deep Learning       ██████████████████░░░   85%
-Computer Vision          ██████████████████░░░   85%
-IoT & Embedded Systems   ████████████████░░░░░   80%
-Cloud Computing (AWS)    ████████████████░░░░░   80%
-E-Commerce Development   ███████████████░░░░░░   75%
-Network Engineering      ███████████████████░░   90%
-Mesh Network & OLSR      ██████████████████░░░   85%
-Virtualization (VMware)  ████████████████░░░░░   80%
-Full Stack Web Dev       ██████████████████░░░   85%
-Parallel Computing       ████████████████░░░░░   80%
-Database Management      ███████████████████░░   90%
-Real-time Processing     ██████████████████░░░   85%
-DevOps & CI/CD           ████████████████░░░░░   80%
+AI Agent Engineering       ████████████████████░   95%
+LLM & RAG Development      ████████████████████░   95%
+LangChain / LangGraph      ███████████████████░░   90%
+Python Programming         ████████████████████░   95%
+Machine Learning           ██████████████████░░░   85%
+Computer Vision            ██████████████████░░░   85%
+Vector DB & Embeddings     ███████████████████░░   90%
+Cloud Computing (AWS)      ████████████████░░░░░   80%
+Full Stack Web Dev         ██████████████████░░░   85%
+DevOps & CI/CD             ████████████████░░░░░   80%
+Game Development           ████████████████████░   95%
+Mobile Development         ███████████████████░░   90%
+IoT & Embedded Systems     ████████████████░░░░░   80%
+Network Engineering        ███████████████████░░   90%
+Database Management        ███████████████████░░   90%
 ```
 ---
 
 ## 💡 Areas of Interest
 
+- 🤖 **AI Agent Engineering**: LangChain, LangGraph, CrewAI, AutoGen, Multi-Agent Systems
+- 🧠 **LLM & RAG**: Prompt Engineering, Retrieval-Augmented Generation, Fine-tuning, Vector Databases
+- 📚 **NLP & Document AI**: Smart Document Chatbot, Text Summarization, Knowledge Graphs
 - 🎮 **Game Development**: Unity, 2D/3D Game Design, Platformers
 - 📱 **Mobile Apps**: Flutter, Cross-platform Development, Health & Fitness Apps
-- 🤖 **AI/ML**: Computer Vision, Object Detection (YOLOv8), Image Classification (ResNet50), Emotion Recognition
-- 🏆 **Data Science & Kaggle**: ML Competitions, Dataset Creation, Notebook Publishing
 - 🏥 **IoT & HealthTech**: Health Monitoring, Stress Detection, Wearable Devices, Medical Sensors
-- 🛒 **E-Commerce**: Travel Platforms, Booking Systems, Payment Integration
 - ☁️ **Cloud Computing**: AWS (EC2, S3, RDS, Lambda), Cloud Architecture, Serverless
-- 🌐 **Network Infrastructure**: Mesh Networks, OLSR Protocol, OpenWRT, Routing Algorithms
-- 💻 **Virtualization**: VMware, Virtual Network Topology, Network Simulation
-- ⚡ **Performance**:  Parallel Processing, Algorithm Optimization, Real-time Data Processing
-- 🗄️ **Backend Development**: MongoDB, Firebase, Real-time Databases, API Design
 - 🐳 **DevOps**: Docker, Containerization, CI/CD, Cloud Deployment
+- 🌐 **Network Infrastructure**: Mesh Networks, OLSR Protocol, OpenWRT, Routing Algorithms
+- ⚡ **Performance**: Parallel Processing, Algorithm Optimization, Real-time Data Processing
 ---
 
 
